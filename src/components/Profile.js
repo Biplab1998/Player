@@ -23,17 +23,17 @@ function Profile() {
               alignItems: "center",
             }}
           >
-            <Paper elevation={0}>
+            <Paper elevation={0} data-aos="slide-right">
               <Typography variant="h3" style={{ textAlign: "center" }}>
                 {/* <Person fontSize="large" style={{ margin: "0 5rem" }} /> */}
                 Biplab Paul
               </Typography>
             </Paper>
-            <Paper className="paper-style">
+            <Paper className="paper-style" data-aos="slide-right">
               <Email />
               <Typography variant="h5">bittupaul1998@gmail.com</Typography>
             </Paper>
-            <Paper className="paper-style">
+            <Paper className="paper-style" data-aos="slide-right">
               <LocalPhone />
               <Typography variant="h5">+917004466712</Typography>
             </Paper>

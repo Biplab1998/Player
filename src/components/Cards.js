@@ -5,7 +5,7 @@ import Button from "@material-ui/core/Button";
 
 function Cards(props) {
   return (
-    <div>
+    <div data-aos="zoom-in">
       <div class="card">
         <img
           //   key={album.title}

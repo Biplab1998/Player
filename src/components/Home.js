@@ -74,7 +74,7 @@ function Home() {
   const classes = useStyles();
 
   return (
-    <div>
+    <div data-aos="slide-right">
       <Container
         maxWidth="xl"
         style={{
