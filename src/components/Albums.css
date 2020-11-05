@@ -1,0 +1,19 @@
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  justify-content: center !important;
+  padding: 1rem !important;
+}
+
+.album-title {
+  text-align: center;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+.album-title:hover {
+  color: #764ba2;
+  transform: scale(1.1);
+}

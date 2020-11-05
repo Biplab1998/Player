@@ -1,0 +1,15 @@
+/* .background-div {
+  height: 30vh;
+  width: 100%;
+} */
+
+.paper-style {
+  text-align: center;
+  padding: 1rem;
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  transition: all 2s ease-in-out;
+}
+
+.paper-style:hover {
+  transform: scale(1.1);
+}
