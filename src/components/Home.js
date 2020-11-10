@@ -20,9 +20,6 @@ import Login from "./Login";
 function Home() {
   const [user, setUser] = useState(true);
   const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
-  const [emailError, setEmailError] = useState("");
-  const [passwordError, setPasswordError] = useState("");
 
   const handleChange = () => {
     console.log("checked");

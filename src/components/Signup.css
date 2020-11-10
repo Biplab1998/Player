@@ -1,10 +1,10 @@
 .primary-btn {
-  margin: 1.5rem;
-  background-color: #764ba2;
-  color: white;
+  margin: 1.6rem;
+  background-color: #764ba2 !important;
+  color: white !important;
 }
 
 .primary-btn:hover {
-  background-color: white;
-  color: #764ba2;
+  background-color: white !important;
+  color: black !important;
 }
